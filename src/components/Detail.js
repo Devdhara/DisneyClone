@@ -29,7 +29,7 @@ function Detail() {
                 SubTitle
             </SubTitle>
             <Description>
-               Description
+               Description  to be displayed
             </Description>
         </Container>
     )
