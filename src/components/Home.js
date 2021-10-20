@@ -22,9 +22,9 @@ const Container = styled.div`
     position: relative;
     overflow-x: hidden;
 
-    &:before {
-        background: url("/images/home-background.png") center center / cover 
-        no-repeat fixed;
+     &:before {
+         background: url("/images/home-background.png") center center / cover  
+         no-repeat fixed;
         content: "";
         position: absolute;
         top: 0;
@@ -32,7 +32,7 @@ const Container = styled.div`
         right: 0;
         bottom: 0;
         z-index:-1;
-
-    }
+        
+    } 
 
 `
